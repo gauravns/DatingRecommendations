@@ -1,0 +1,5 @@
+UserA-25-Female-Cricket,Tennis
+UserB-27-Male-Cricket,Football,Movies
+UserC-26-Male-Movies,Tennis,Football,Cricket
+UserD-24-Female-Tennis,Football,Badminton
+UserE-32-Female-Cricket,Football,Movies,Badminton
